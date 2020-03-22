@@ -6,4 +6,4 @@ description: "aperitifs"
 type: "post"
 ---
 
-Do we have your attention ? The perfect addition to any Sunday afternoon AND available for takeaway
+The perfect addition to any Sunday afternoon AND available for takeaway
