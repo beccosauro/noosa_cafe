@@ -85,7 +85,6 @@ subscription:
 ################ Contact #######################
 contact:
   enable : true
-  bgImage : "images/subscribe-bg.jpg"
+  bgImage : "images/contact_us.jpeg"
   title: "Let's <span> Contact Us </span>"
-  subtitle: "We are here for you!"
   formAction : "#" #contact form works with formspree.io
