@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://showwebsite.onrender.com/"
+baseURL = "https://noosacafe.onrender.com/"
 languageCode = "en-us"
 title = "Noosa cafe"
 theme = "restaurant-hugo"
