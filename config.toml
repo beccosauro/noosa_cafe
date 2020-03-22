@@ -6,6 +6,8 @@ theme = "restaurant-hugo"
 summaryLength = "7"
 paginate = 6
 
+[markup.goldmark.renderer]
+unsafe= true
 ############################# Plugins ##############################
 
 # CSS Plugins
@@ -75,12 +77,12 @@ weight = 6
 [params]
 logo = "images/logo.png"
 # meta data
-author = "Themefisher"
-description = "This is meta description"
+author = "Simone"
+description = "Noosa social espresso Brisbane"
 # google analitycs ID
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright 2020 - All Rights Reserved. Design and Developed By Themefisher.com"
+copyright = "Copyright 2020 - All Rights Reserved."
 
 # Preloader
 [params.preloader]
@@ -93,23 +95,23 @@ enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
 blogTitle = "LATEST <span>BLOG POSTS</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
-socialTitle = "Follow <span>US</span>"
+socialTitle = "Follow US"
 
 ############################ footer contact item
 [[params.footer.contactItem]]
 title="Telephone"
 icon = "fa fa-phone"
-content = "016742 323313"
+content = "+61 7 5447 4393"
 
 [[params.footer.contactItem]]
 title="Address"
 icon = "fa fa-map-marker"
-content = "2046 Blue Spruce Lane Laurel Canada"
+content = "Shop 2/62 Hastings St, Noosa Heads QLD 4567, Australia"
 
 [[params.footer.contactItem]]
 title="E mail"
 icon = "fa fa-envelope"
-content = "rest@gmail.com - rest@mail.ru"
+content = "info@noosasocialespresso.com.au"
 
 ######################### footer gallery
 [[params.footer.gallery]]
@@ -121,28 +123,12 @@ image = "images/slider/slider-img-2.jpg"
 [[params.footer.gallery]]
 image = "images/slider/slider-img-3.jpg"
 
-[[params.footer.gallery]]
-image = "images/slider/slider-img-4.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
-
-[[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
 
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "twitter"
-link = "https://fb.com/themefisher"
-
-[[params.footer.socialLink]]
-icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://www.facebook.com/noosasocialespresso/"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://instagram.com/noosa.social?igshid=ehc5u9lf9tyr"
