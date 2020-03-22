@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://example.org/"
+baseURL = "https://showwebsite.onrender.com/"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme = "restaurant-hugo"
