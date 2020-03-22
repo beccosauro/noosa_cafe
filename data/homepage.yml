@@ -9,7 +9,7 @@ gallery:
   enable : true
   title : "Gallery"
   sliderItem:
-    - image : "images/slider/blog-img-4.jpg"
+    - image : "images/slider/slider-img-7.jpg"
     - image : "images/slider/slider-img-2.jpg"
     - image : "images/slider/slider-img-3.jpg"
     - image : "images/slider/slider-img-4.jpg"
