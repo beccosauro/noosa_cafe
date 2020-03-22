@@ -36,41 +36,40 @@ blog:
 ################# food Menu ################
 pricing:
   enable : true
-  title : "Our Easy <span>PRICE</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
-  subtitle : "FEATURED ON THE WEEK"
+  title : "TAKEAWAY MENU"
+  description: ""
+  subtitle : "Morning"
   pricingItem:
-  - title: "Pancakes n' Such Titas"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 25.00"
+  - title: "Omg Omelette"
+    description: "Prosciutto, feta, roasted cherry tomatoes, sourdough toast. DFO, GFO"
+    price : "$ 18.00"
 
-  - title: "Caesar Salad"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 10.00"
+  - title: "Rainbow Birch"
+    description: "Swiss style bircher muesli, fresh seasonal fruit, coconut yoghurt & flaked almonds. V"
+    price : "$ 16.00"
 
-  - title: "Steak with a Garlic and Parsley Risotto"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 20.00"
+  - title: "Morning Avo"
+    description: "Avocado, cherry tomatoes, basil, sourdough w olive oil & sea salt. V, GFO"
+    price : "$ 17.00"
 
-  - title: "Meat of Skewers"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 35.00"
+  - title: "Nourish Salad Bowl"
+    description: "Shaved red cabbage, carrot, broccoli, pickled radish & quinoa dressed w pumpkin cashew cream & toasted seeds. V, GF"
+    price : "$ 17.00"
 
-  - title: "The DESTROYER"
-    description: "800Gr of pure meath with cheese and bacon"
-    price : "$ 25.00"
+  - title: "The Hastings"
+    description: "Baked zucchini & sweet potato fritters w baby spinach, beetroot relish & green goddess dressing. VG GF"
+    price : "$ 18.00"
   
-  - title: "Dirty italian food"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 35.00"
+  - title: "Noosa Feed"
+    description: "Mexican spiced braised beef, turmeric sourdough w avocado sour cream, cherry tomatoes & poached egg. GFO"
+    price : "$ 19.00"
 
-  - title: "Gnocchi alla bolognese"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 25.00"
+  - title: "Toast"
+    description: "Sourdough w butter & your choice of jam, peanut butter, vegemite. GFO"
+    price : "$ 7.50"
 
-  - title: "Pasta alla Carbonara"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim"
-    price : "$ 25.00"
+  - title: "Fruit Loaf"
+    price : "$ 8.00"
 
 ################### Subscription ################
 subscription:
