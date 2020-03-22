@@ -48,29 +48,24 @@ URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "About Us"
+name = "News"
 URL = "about-us"
 weight = 2
 
 [[menu.main]]
-name = "Blog"
+name = "Our dishes"
 URL = "blog"
 weight = 3
 
 [[menu.main]]
-name = "Price"
+name = "Menù"
 URL = "price"
 weight = 4
 
 [[menu.main]]
-name = "News"
-URL = "subscribe"
-weight = 5
-
-[[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 6
+weight = 5
 
 
 #################### default parameters ################################
@@ -80,7 +75,7 @@ logo = "images/logo.png"
 author = "Simone"
 description = "Noosa social espresso Brisbane"
 # google analitycs ID
-google_analitycs_id = "Your ID"
+google_analitycs_id = "214184382"
 # copyright
 copyright = "Copyright 2020 - All Rights Reserved."
 
@@ -93,7 +88,7 @@ preloader = "" # use .png , .svg or .gif format
 [params.footer]
 enable = true
 contactInfoTitle = "CONTACT <span>INFO</span> "
-blogTitle = "LATEST <span>BLOG POSTS</span>"
+blogTitle = "Our <span>LOCATION</span>"
 galleryTitle = "PHOTO <span>STREAM</span>"
 socialTitle = "Follow US"
 
@@ -115,13 +110,13 @@ content = "info@noosasocialespresso.com.au"
 
 ######################### footer gallery
 [[params.footer.gallery]]
-image = "images/slider/slider-img-1.jpg"
+image = "images/blog/blog-img-1.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-2.jpg"
+image = "images/blog/blog-img-2.jpg"
 
 [[params.footer.gallery]]
-image = "images/slider/slider-img-3.jpg"
+image = "images/blog/blog-img-3.jpg"
 
 
 ######################## Social Icon 

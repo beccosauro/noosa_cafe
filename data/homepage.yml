@@ -1,91 +1,173 @@
 ################## Hero area ##################
 heroArea:
-  enable : true
-  bgImage : "images/evening.jpeg"
-  overlay : true
+  enable: true
+  bgImage: "images/evening.jpeg"
+  overlay: true
 
 ################### Gallery ###################
 gallery:
-  enable : true
-  title : "Gallery"
+  enable: true
+  title: "Gallery"
   sliderItem:
-    - image : "images/slider/slider-img-7.jpg"
-    - image : "images/slider/slider-img-2.jpg"
-    - image : "images/slider/slider-img-3.jpg"
-    - image : "images/slider/slider-img-4.jpg"
-    - image : "images/slider/slider-img-5.jpg"
-    - image : "images/slider/slider-img-6.jpg"
-    - image : "images/slider/slider-img-1.jpg"
+    - image: "images/slider/slider-img-7.jpg"
+    - image: "images/slider/slider-img-2.jpg"
+    - image: "images/slider/slider-img-3.jpg"
+    - image: "images/slider/slider-img-4.jpg"
+    - image: "images/slider/slider-img-5.jpg"
+    - image: "images/slider/slider-img-6.jpg"
+    - image: "images/slider/slider-img-1.jpg"
 
 
 ################ About #######################
 about:
-  enable : true
-  image : "images/danger.png"
-  title : "Coronavirus Emergency"
-  description : "Due the new restrictions that came up in place to fight the Coronavirus, we are please to inform to all our customers that we will keep trading as a Take Away venue only. hat being said, our staff will be taking extra precautions with cleanliness during these uncertain times.
+  enable: true
+  image: "images/danger.png"
+  title: "Coronavirus Emergency"
+  description: "Due the new restrictions that came up in place to fight the Coronavirus, we are please to inform to all our customers that we will keep trading as a Take Away venue only.
+  <br>That being said, our staff will be taking extra precautions with cleanliness during these uncertain times.
   <br/> Thanks for your support. <br> Andrea & Loren"
-  
+
 ################# Blog ######################
 blog:
-  enable : true
-  title : "Our Latest Food & Drink"
-  bgImage : "images/blog/background-overlay.jpeg"
-  overlay : true
+  enable: true
+  title: "Our Latest Food & Drink"
+  bgImage: "images/blog/background-overlay.jpeg"
+  overlay: true
 
 
 ################# food Menu ################
 pricing:
-  enable : true
-  title : "TAKEAWAY MENU"
-  description: ""
-  subtitle : "Morning"
+  enable: true
+  title: "TAKEAWAY MENU"
+  description: "Serving Flying West Organic ‘My Little Friend’ Coffee. On Barambah Organic Milk Dairy alternatives ($1) · Bonsoy · Oat Milk · Milk Lab Almond · Milk Lab Coconut · Barambah Lactose Free"
+  subtitle: "Morning & evening"
   pricingItem:
-  - title: "Omg Omelette"
-    description: "Prosciutto, feta, roasted cherry tomatoes, sourdough toast. DFO, GFO"
-    price : "$ 18.00"
 
-  - title: "Rainbow Birch"
-    description: "Swiss style bircher muesli, fresh seasonal fruit, coconut yoghurt & flaked almonds. V"
-    price : "$ 16.00"
+    - title: "Espresso"
+      price: "$ 3.50"
 
-  - title: "Morning Avo"
-    description: "Avocado, cherry tomatoes, basil, sourdough w olive oil & sea salt. V, GFO"
-    price : "$ 17.00"
+    - title: "Black OR White Coffee"
+      price: "Small $ 4.00 Large $ 5.00"
 
-  - title: "Nourish Salad Bowl"
-    description: "Shaved red cabbage, carrot, broccoli, pickled radish & quinoa dressed w pumpkin cashew cream & toasted seeds. V, GF"
-    price : "$ 17.00"
+    - title: "Hot Chocolate"
+      price: "$ 4.50"
 
-  - title: "The Hastings"
-    description: "Baked zucchini & sweet potato fritters w baby spinach, beetroot relish & green goddess dressing. VG GF"
-    price : "$ 18.00"
-  
-  - title: "Noosa Feed"
-    description: "Mexican spiced braised beef, turmeric sourdough w avocado sour cream, cherry tomatoes & poached egg. GFO"
-    price : "$ 19.00"
+    - title: "Chai Latte"
+      price: "$ 4.50"
 
-  - title: "Toast"
-    description: "Sourdough w butter & your choice of jam, peanut butter, vegemite. GFO"
-    price : "$ 7.50"
+    - title: "Iced Latte, 2 shots, ice, milk"
+      price: "$ 6.00"
 
-  - title: "Fruit Loaf"
-    price : "$ 8.00"
+    - title: "Iced Coffee, 2 shots, ice, milk, ice-cream"
+      price: "$ 6.50"
+
+    - title: "Tea (enquire for flavours)"
+      price: "$ 4.50"
+
+    - title: "Milkshakes"
+      description: "Caramel, Vanilla, Chocolate"
+      price: "$ 7.50"
+
+    - title: "Vegan Probiotic Cold Press Juices"
+      price: "$ 7.00"
+
+    - title: "Omg Omelette"
+      description: "Prosciutto, feta, roasted cherry tomatoes, sourdough toast. DFO, GFO"
+      price: "$ 18.00"
+
+    - title: "Rainbow Birch"
+      description: "Swiss style bircher muesli, fresh seasonal fruit, coconut yoghurt & flaked almonds. V"
+      price: "$ 16.00"
+
+    - title: "Morning Avo"
+      description: "Avocado, cherry tomatoes, basil, sourdough w olive oil & sea salt. V, GFO"
+      price: "$ 17.00"
+
+    - title: "Nourish Salad Bowl"
+      description: "Shaved red cabbage, carrot, broccoli, pickled radish & quinoa dressed w pumpkin cashew cream & toasted seeds. V, GF"
+      price: "$ 17.00"
+
+    - title: "The Hastings"
+      description: "Baked zucchini & sweet potato fritters w baby spinach, beetroot relish & green goddess dressing. VG GF"
+      price: "$ 18.00"
+
+    - title: "Noosa Feed"
+      description: "Mexican spiced braised beef, turmeric sourdough w avocado sour cream, cherry tomatoes & poached egg. GFO"
+      price: "$ 19.00"
+
+    - title: "Toast"
+      description: "Sourdough w butter & your choice of jam, peanut butter, vegemite. GFO"
+      price: "$ 7.50"
+
+    - title: "Fruit Loaf"
+      price: "$ 8.00"
+
+    - title: "Extra"
+      description: "Egg x1 $3, x2 $5 · Avo $5 · Tomato $4 · Ham $4 · Coconut / Dairy Yogurt $3"
+
+    - title: "For the little ones"
+      description: "Pancake w maple syrup Poached egg on toast"
+      price: "$ 10.00"
+
+    - title: "Build your own Sandwich (Choose from 5 items)"
+      description: "Salami
+                  · Proscuitto · Ham
+                  · Cheese
+                  · Chicken
+                  · Vegetarian
+                  · Tomato · Lettuce · Mayo
+                  · Pickles · Avo
+                  · Brie Cheese"
+
+    - title: "Olives"
+      description: "Kalamata olives to share. GF, DF (from 4 PM)"
+      price:  "$ 6.00"
+
+    - title: "The Dip"
+      description: "Homemade duo of dips w warm artisan style bread. GFO (from 4 PM)"
+      price:  "$ 13.00"
+
+    - title: "Unusual Bruschetta"
+      description: "Shaved fennel, orange, rocket & EVOO on Toasted Sourdough or Cherry Tomatoes w marinated fetta & basil. GFO, V (from 4 PM)"
+      price:  "$ 15.00"
+
+    - title: "Antipasti Platter (per due)"
+      description: "Please check with our NS team for today’s platter inclusions. GFO, DFO (from 4 PM)"
+      price:  "$ 28.00"
+
+    - title: "Beef Cheek Nachos "
+      description: "Mexican style slow cooked pulled QLD Beef Cheek, topped with fresh tomato salsa, guacamole, melted cheese & sour cream. (from 4 PM)"
+      price:  "$ 25.00"
+
+    - title: "Chicken & Macadamia Salad"
+      description: "Sliced chicken breast, shaved red cabbage, carrot, pickled radish,
+                    quinoa & roasted macadamias dressed w pumpkin cashew cream. GF, DF, VO (from 4 PM)"
+      price:  "$ 24.00"
+
+    - title: "Garden Fritatta"
+      description: "Country Italian style grilled vegetable frittata w petite salad, house made pickles & beetroot relish. V,GF (from 4 PM)"
+      price:  "$ 19.00"
+
+    - title: "Noosa Social Dolce"
+      description: "Our rustic triple chocolate brownie w berry coulis & vanilla ice-cream. (from 4 PM)"
+      price:  "$ 12.00"
+
+
 
 ################### Subscription ################
 subscription:
-  enable : true
-  bgImage : "images/subscribe-bg.jpg"
-  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  enable: true
+  bgImage: "images/subscribe-bg.jpg"
+  title: "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
   #Mailchimp subscription configaration 
-  formAction : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
-  overlay : true
+  formAction: "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName: "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay: true
 
 ################ Contact #######################
 contact:
-  enable : true
-  bgImage : "images/contact_us.jpeg"
+  enable: true
+  bgImage: "images/contact_us.jpeg"
   title: "Let's <span> Contact Us </span>"
-  formAction : "#" #contact form works with formspree.io
+  formAction: "#" #contact form works with formspree.io
