@@ -63,9 +63,14 @@ URL = "price"
 weight = 4
 
 [[menu.main]]
+name = "Order now"
+URL = "price"
+weight = 5
+
+[[menu.main]]
 name = "Contact Us"
 URL = "contact-us"
-weight = 5
+weight = 6
 
 
 #################### default parameters ################################
