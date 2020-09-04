@@ -48,11 +48,6 @@ URL = "hero-area"
 weight = 1
 
 [[menu.main]]
-name = "News"
-URL = "about-us"
-weight = 2
-
-[[menu.main]]
 name = "Our dishes"
 URL = "blog"
 weight = 3
