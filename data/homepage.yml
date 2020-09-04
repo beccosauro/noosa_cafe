@@ -9,13 +9,16 @@ gallery:
   enable: true
   title: "Gallery"
   sliderItem:
+    - image: "images/slider/slider-img-8.jpg"
+    - image: "images/slider/slider-img-9.jpg"
+    - image: "images/slider/slider-img-10.jpg"
     - image: "images/slider/slider-img-7.jpg"
     - image: "images/slider/slider-img-2.jpg"
     - image: "images/slider/slider-img-3.jpg"
-    - image: "images/slider/slider-img-4.jpg"
     - image: "images/slider/slider-img-5.jpg"
     - image: "images/slider/slider-img-6.jpg"
     - image: "images/slider/slider-img-1.jpg"
+
 
 
 ################ About #######################
@@ -38,7 +41,7 @@ blog:
 ################# food Menu ################
 pricing:
   enable: true
-  title: "TAKEAWAY MENU"
+  title: "DAY MENU"
   description: "Serving Flying West Organic ‘My Little Friend’ Coffee. On Barambah Organic Milk Dairy alternatives ($1) · Bonsoy · Oat Milk · Milk Lab Almond · Milk Lab Coconut · Barambah Lactose Free"
   subtitle: "Morning & evening"
   pricingItem:
@@ -77,11 +80,11 @@ pricing:
 
     - title: "Rainbow Birch"
       description: "Swiss style bircher muesli, fresh seasonal fruit, coconut yoghurt & flaked almonds. V"
-      price: "$ 16.00"
+      price: "$ 17.00"
 
     - title: "Morning Avo"
       description: "Avocado, cherry tomatoes, basil, sourdough w olive oil & sea salt. V, GFO"
-      price: "$ 17.00"
+      price: "$ 18.00"
 
     - title: "Nourish Salad Bowl"
       description: "Shaved red cabbage, carrot, broccoli, pickled radish & quinoa dressed w pumpkin cashew cream & toasted seeds. V, GF"
@@ -89,18 +92,18 @@ pricing:
 
     - title: "The Hastings"
       description: "Baked zucchini & sweet potato fritters w baby spinach, beetroot relish & green goddess dressing. VG GF"
-      price: "$ 18.00"
+      price: "$ 19.00"
 
     - title: "Noosa Feed"
       description: "Mexican spiced braised beef, turmeric sourdough w avocado sour cream, cherry tomatoes & poached egg. GFO"
-      price: "$ 19.00"
+      price: "$ 21.00"
 
     - title: "Toast"
       description: "Sourdough w butter & your choice of jam, peanut butter, vegemite. GFO"
-      price: "$ 7.50"
+      price: "$ 8.00"
 
     - title: "Fruit Loaf"
-      price: "$ 8.00"
+      price: "$ 9.00"
 
     - title: "Extra"
       description: "Egg x1 $3, x2 $5 · Avo $5 · Tomato $4 · Ham $4 · Coconut / Dairy Yogurt $3"
@@ -126,6 +129,14 @@ pricing:
     - title: "The Dip"
       description: "Homemade duo of dips w warm artisan style bread. GFO (from 4 PM)"
       price:  "$ 13.00"
+
+    - title: "BEEF NACHOS4 TWO PLUS ABOTTLE OF WINE"
+      description: "Mexican style slow cooked pulled QLD Beef ,topped with fresh tomato salsa, guacamole, melted cheese & sour cream (from 11 AM)"
+      price:  "$ 50.00"
+
+    - title: "SEASONAL SALAD AVAILABLE PLEASE ASK FOR DETAILS"
+      description: "Mexican style slow cooked pulled QLD Beef ,topped with fresh tomato salsa, guacamole, melted cheese & sour cream (from 11 AM)"
+      price:  "$ 18.00"
 
     - title: "Unusual Bruschetta"
       description: "Shaved fennel, orange, rocket & EVOO on Toasted Sourdough or Cherry Tomatoes w marinated fetta & basil. GFO, V (from 4 PM)"
@@ -159,9 +170,9 @@ subscription:
   enable: true
   bgImage: "images/subscribe-bg.jpg"
   title: "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  description: ""
   #Mailchimp subscription configaration 
-  formAction: "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formAction: ""
   formName: "b_f95ece2732a6e9925f2e70a61_b1e227529e"
   overlay: true
 
@@ -170,4 +181,3 @@ contact:
   enable: true
   bgImage: "images/contact_us.jpeg"
   title: "Let's <span> Contact Us </span>"
-  formAction: "#" #contact form works with formspree.io
