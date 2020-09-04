@@ -19,13 +19,13 @@ gallery:
 
 
 ################ About #######################
-about:
-  enable: true
-  image: "images/danger.png"
-  title: "Coronavirus Emergency"
-  description: "Due the new restrictions that came up in place to fight the Coronavirus, we are please to inform to all our customers that we will keep trading as a Take Away venue only.
-  <br>That being said, our staff will be taking extra precautions with cleanliness during these uncertain times.
-  <br/> Thanks for your support. <br> Andrea & Loren"
+#about:
+#  enable: true
+#  image: "images/danger.png"
+#  title: "Coronavirus Emergency"
+#  description: "Due the new restrictions that came up in place to fight the Coronavirus, we are please to inform to all our customers that we will keep trading as a Take Away venue only.
+#  <br>That being said, our staff will be taking extra precautions with cleanliness during these uncertain times.
+#  <br/> Thanks for your support. <br> Andrea & Loren"
 
 ################# Blog ######################
 blog:
